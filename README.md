@@ -1,62 +1,55 @@
 <!-- Gaurav Gali – README.md -->
 
-<h1 align="center">👋 Hi, I'm Gaurav Gali</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Gali</h1>
+<h3 align="center">Passionate Developer | AI Enthusiast | Tech Explorer</h3>
+
 <p align="center">
-  <em>Engineering Student @ VIT Chennai | Aspiring Software Engineer | Tech Explorer</em>
+  <a href="https://twitter.com/gauravgali" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gaurav-gali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Engineering Student** at VIT Chennai  
-- 💻 Passionate about **Java**, **React Native**, and **Full-Stack Development**  
-- 🧩 Love solving **Data Structures & Algorithms** problems  
-- 🌱 Constantly exploring **Cloud**, **UI/UX**, and **AI tools**  
+## 👨‍💻 About Me
+- 📍 **Location:** India  
+- 🌱 **Focus:** Building innovative AI-driven solutions and exploring emerging tech trends  
+- 🌐 **Portfolio:** [gauravgali.dev](https://www.gauravgali.dev)  
+- 📫 **Email:** gauravgali.dev@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+### Languages  
+`Python` • `JavaScript` • `TypeScript` • `Java` • `C++` • `C` • `Go` • `Dart`
+
+### Frameworks & Libraries  
+`React` • `Next.js` • `Node.js` • `Django` • `Flutter` • `Bootstrap` • `Tailwind CSS` • `Electron`
+
+### Databases & Cloud  
+`MySQL` • `MongoDB` • `PostgreSQL` • `SQLite` • `Firebase` • `Google Cloud` • `Redis`
+
+### Tools & Platforms  
+`Git` • `Docker` • `Postman` • `OpenCV` • `Appwrite` • `Chart.js` • `Figma`
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-gali&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-gali&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
----
-
-## 💡 Featured Projects
-| Project | Description | Tech |
-|--------|------------|------|
-| **Visual Node-based Backend Builder** | Drag-and-drop platform to create APIs & workflows without code | React, Tailwind, AI integrations |
-| **Camera Movement Simulator** | CAD-style 3D camera motion model with real & sketch rendering | Java, CAD tools |
-| **DSA Solutions Library** | Optimized Java solutions for LeetCode-style problems | Java |
-
-> ✨ *More projects in the repos — check them out!*
-
----
-
-## 🏆 Achievements
-- 💪 Consistently solving advanced **Algorithm & Binary Search** problems  
-- 🛠️ Built multiple prototypes using **Tamagui**, **NativeWind**, and **shadcn/ui**  
-- 🔧 Proficient with modern dev environments like **WebStorm** & **VS Code**
-
----
-
-## 📫 Contact
-- 📧 **Email:** gaurav.gali@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🖥️ [Portfolio/Website](https://your-website.example)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-gali&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&center=true&vCenter=true&lines=✨+Thanks+for+Visiting!+✨" />
 </p>
-
----
-
-<p align="center">⭐️ From Gaurav Gali</p>
